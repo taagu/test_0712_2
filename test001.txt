@@ -1,3 +1,7 @@
 ソース修正
 バッティング？
+<<<<<<< HEAD
 test001
+=======
+master001
+>>>>>>> refs/remotes/origin/master
